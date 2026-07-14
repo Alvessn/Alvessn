@@ -11,7 +11,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Termo)
 
-💻 Desenvolvedor Back-end.
+💻 Atualmente focado em desenvolvimento Back-end com Node.js e Front-end com React, enquanto aprofundo meus conhecimentos em Java
 
 🚀 Sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como programador.
 
