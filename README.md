@@ -1,4 +1,4 @@
-<h1 align="center">👋 João Pedro</h1>
+<h1 align="center">João Pedro</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b><br>
@@ -11,7 +11,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Termo)
 
-💻 Desenvolvedor Full Stack com interesse em Back-end.
+💻 Desenvolvedor Back-end.
 
 🚀 Sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como programador.
 
@@ -29,9 +29,10 @@
 
 - ☕ Java
 - ⚛️ React
+- 📱 Android
 - 🌐 Node.js + Express
 - 🗄️ MySQL
-- 🏗️ Arquitetura MVC
+
 
 ---
 
