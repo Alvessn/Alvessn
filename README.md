@@ -1,39 +1,44 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá! 👋 Eu sou o João Pedro</h1>
 
-###
+<p align="left">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Termo)<br>
+💻 Desenvolvedor Full Stack em formação<br>
+🚀 Apaixonado por tecnologia e sempre em busca de novos desafios.
+</p>
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+##
 
-###
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
-<h2 data-importer="text" align="left">About me</h2>
+<p align="left">
+📚 Atualmente estudando Java, Node.js e React<br>
+💡 Interesse em desenvolvimento Back-end e Full Stack<br>
+🎯 Objetivo: evoluir como desenvolvedor e contribuir para projetos cada vez maiores<br>
+🚀 Sempre buscando aprender novas tecnologias e boas práticas de programação
+</p>
 
-###
+##
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">🛠️ Tecnologias</h2>
 
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
 </div>
-
-###
